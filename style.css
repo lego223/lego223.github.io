@@ -1,0 +1,31 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  padding-top:70px;
+}
+.name{
+  font-size:100px;
+  color:#00838f;
+}
+.descript{
+  padding-top: 110px;
+  color:#00838f;
+  font-size:50px;
+}
+.descript2{
+  color:#00838f;
+}
+.midd{
+  font-size:30px;
+}
+.midd2{
+  font-size:20px;
+}
+.midd3{
+  font-size:30px;
+}
+.midd4{
+  font-size:20px;
+}
+.photo{
+  padding-top:50px;
+}
